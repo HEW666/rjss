@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&amp;logoColor=E9CE30">
-  <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&amp;logoColor=3178C6">
 </p>
 
 
