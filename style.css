@@ -127,6 +127,13 @@ body a{
     justify-content: center;
 }
 
+.dizong{
+    position: absolute;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    width: 100%;
+}
 
 .header.issearch{
     margin: 2vh 0;
